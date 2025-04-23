@@ -1,3 +1,7 @@
+// Macro menu to select or target multiple tokens on the current scene
+// either party of opposition alliances
+// either all on scene or only in combat
+
 let tokenActionDialog;
 
 function performAction(action, alliance, scope) {

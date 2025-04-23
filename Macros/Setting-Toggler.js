@@ -1,3 +1,5 @@
+// Macro to toggle a boolean (true or false) setting in foundryVTT
+
 // List of all settings in console :
 // game.settings.settings
 
